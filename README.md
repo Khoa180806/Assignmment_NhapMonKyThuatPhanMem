@@ -86,7 +86,7 @@ Các tài liệu phân tích yêu cầu nằm trong thư mục `Document/`:
 - Thiết lập môi trường phát triển
 - Phân tích yêu cầu hệ thống
 
-### Phase 2: Phát triển cốt lõi (Đang thực hiện)
+### Phase 2: Phát triển cốt lõi
 - Thiết kế cơ sở dữ liệu
 - Phát triển các lớp Entity
 - Implement các chức năng cơ bản
